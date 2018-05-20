@@ -4,7 +4,7 @@ A simple node.js app to communicate with a Blockchain network via web socket to 
 
 ## To install dependencies
 
-```npm start```
+```npm install```
 
 ## To start 
 
