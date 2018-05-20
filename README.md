@@ -2,11 +2,11 @@
 
 A simple node.js app to communicate with a Blockchain network via web socket to capture published events.
 
-##To install dependencies
+## To install dependencies
 
 ```npm start```
 
-##To start 
+## To start 
 
 ```
 npm start
