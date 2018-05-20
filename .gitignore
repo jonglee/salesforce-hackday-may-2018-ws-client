@@ -1,0 +1,6 @@
+node_modules
+.sfdx
+.vscode
+.idea
+package-lock.json
+

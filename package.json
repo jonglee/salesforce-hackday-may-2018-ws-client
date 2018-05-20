@@ -1,0 +1,23 @@
+{
+  "name": "sfdc-hackday-ws-client",
+  "main": "app.js",
+  "version": "1.0.0",
+  "description": "A simple WS client to handle Blockchain event",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonglee/salesforce-hackday-may-2018-ws-client"
+  },
+  "engines": {
+    "node": "8.11.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Jong Lee",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "nforce": "^1.10.0",
+    "ws": "^5.1.1"
+  }
+}

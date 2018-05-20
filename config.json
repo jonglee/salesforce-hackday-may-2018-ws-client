@@ -1,0 +1,19 @@
+{
+  "ws_server_url" : "ws://50.23.5.251:31090",
+  "oauth": {
+    "clientId" : "3MVG9U_dUptXGpYJFz0WDpfnUzdwbT6DUpgYHUUrSoBXXNWfhnNYu1izysKCAiAcwcHd6tJIN5dTqaSdCqpK4",
+    "clientSecret": "334581738750318",
+    "redirectUri": "http://localhost:8080",
+    "environment": "sandbox",
+    "mode": "single"
+  },
+  "username": "hackday@sc-05-2018.com",
+  "password": "Test1234RcjMwUoE65EykJjTugqZsLkjn",
+
+  "sfdc_case_entity": {
+    "name": "Case",
+    "origin": "Web",
+    "status": "New",
+    "owner_id": "00G1D000000aOHR"
+  }
+}
